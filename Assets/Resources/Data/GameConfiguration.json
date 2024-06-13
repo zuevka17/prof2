@@ -1,0 +1,34 @@
+{
+  "Difficulty": [
+    {
+      "EnemySpawnTimer": 15,
+      "EnemySpawnUnits": [
+        "Warrior"
+      ],
+      "StartArmyLimit": 5,
+      "ToMaxArmyAfterAttack": 2
+    },
+    {
+      "EnemySpawnTimer": 10,
+      "EnemySpawnUnits": [
+        "Warrior",
+        "Archer"
+      ],
+      "StartArmyLimit": 8,
+      "ToMaxArmyAfterAttack": 4
+    },
+    {
+      "EnemySpawnTimer": 5,
+      "EnemySpawnUnits": [
+        "Warrior",
+        "Archer",
+        "Catapult"
+      ],
+      "StartArmyLimit": 10,
+      "ToMaxArmyAfterAttack": 5
+    }
+  ],
+  "TownHallFreeFromResourceRadius": 100,
+  "ResourceSpawnTime": 60,
+  "ResourceSpawnAmount": 10
+}

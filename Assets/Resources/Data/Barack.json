@@ -1,0 +1,15 @@
+{
+  "Name": "Barack",
+  "HealthPoitns": 100,
+  "BuildPrice": {
+    "Wood": 10,
+    "Stone": 0,
+    "Food": 0,
+    "Metal": 0
+  },
+  "TrainingUnits": [
+    "Archer",
+    "Warrior",
+    "HeavyWarrior"
+  ]
+}

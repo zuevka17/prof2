@@ -1,0 +1,16 @@
+{
+  "Name": "Catapult",
+  "MoveSpeed": 5,
+  "HealthPoitns": 100,
+  "TrainingPrice": {
+    "Wood": 0,
+    "Stone": 10,
+    "Food": 0,
+    "Metal": 0
+  },
+  "MinAttackRange": 10,
+  "MaxAttackRange": 100,
+  "AttackDelay": 2,
+  "Damage": 10
+
+}

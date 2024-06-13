@@ -1,0 +1,14 @@
+{
+  "Name": "Workshop",
+  "HealthPoitns": 100,
+  "BuildPrice": {
+    "Wood": 10,
+    "Stone": 0,
+    "Food": 0,
+    "Metal": 0
+  },
+  "TrainingUnits": [
+    "Catapult",
+    "SiedgeTower"
+  ]
+}

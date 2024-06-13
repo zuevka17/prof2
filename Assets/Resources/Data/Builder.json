@@ -1,0 +1,14 @@
+{
+  "Name": "Builder",
+  "MoveSpeed": 5,
+  "HealthPoitns": 100,
+  "TrainingPrice": {
+    "Wood": 0,
+    "Stone": 10,
+    "Food": 0,
+    "Metal": 0
+  },
+  "HarvestTime": 10,
+  "RepairSpeed": 10,
+  "RepairEfficiency": 10
+}

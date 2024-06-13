@@ -1,0 +1,15 @@
+{
+  "Name": "Healer",
+  "MoveSpeed": 5,
+  "HealthPoitns": 100,
+  "TrainingPrice": {
+    "Wood": 0,
+    "Stone": 10,
+    "Food": 0,
+    "Metal": 0
+  },
+  "MinHealRange": 10,
+  "MaxHealRange": 100,
+  "HealDelay": 2,
+  "HealAmount": 50
+}

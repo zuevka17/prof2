@@ -1,0 +1,16 @@
+{
+  "Name": "SiedgeTower",
+  "MoveSpeed": 5,
+  "HealthPoitns": 100,
+  "TrainingPrice": {
+    "Wood": 0,
+    "Stone": 10,
+    "Food": 0,
+    "Metal": 0
+  },
+  "MinAttackRange": 2,
+  "MaxAttackRange": 8,
+  "AttackDelay": 2,
+  "DamagePerArcher": 5,
+  "UnitCapacity": 10
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Tower",
+  "HealthPoitns": 100,
+  "BuildPrice": {
+    "Wood": 10,
+    "Stone": 0,
+    "Food": 0,
+    "Metal": 0
+  },
+  "DetectRadius": 50,
+  "BuildRadius": 100,
+  "ArcherCapacity": 5,
+  "MinAttackDistance": 0,
+  "MaxAttackDistance": 8,
+  "DamagePerArcher": 5
+}
